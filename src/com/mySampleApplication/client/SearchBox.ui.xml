@@ -1,0 +1,21 @@
+<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+    <g:HTMLPanel>
+        <div id="masthead-content">
+            <div id="masthead-search">
+                <g:Button ui:field="searchButton" >
+                    <span class="yt-uix-button-content">
+                        검색 </span>
+                </g:Button>
+                <div id="masthead-search-terms">
+                    <g:TextBox ui:field="inputBox" title="검색" name="search_query">
+
+                    </g:TextBox>
+
+                </div>
+            </div>
+        </div>
+
+    </g:HTMLPanel>
+</ui:UiBinder>
