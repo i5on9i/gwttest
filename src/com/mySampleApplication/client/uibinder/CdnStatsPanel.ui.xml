@@ -1,6 +1,6 @@
 <ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
              xmlns:g='urn:import:com.google.gwt.user.client.ui'
-             xmlns:u='urn:import:com.mySampleApplication.client'>
+             xmlns:u='urn:import:com.mySampleApplication.client.uibinder'>
 
 
 
@@ -8,11 +8,16 @@
     @def MENU_PANEL_PADDING_BOTTOM 30px;
 
 
+
     @def leftPanelWidth 180px;
 
     .leftPanel{
         padding-bottom: MENU_PANEL_PADDING_BOTTOM;
     }
+
+
+
+
 
 
     .button {
@@ -65,14 +70,18 @@
 <g:DockLayoutPanel unit="EM">
 
     <g:north size='5'>
-        <g:Label>Top</g:Label>
+        <g:HorizontalPanel>
+            <g:Label>Top</g:Label>
+            <u:SuggestWithListBox/>
+        </g:HorizontalPanel>
+
     </g:north>
 
     <g:west size="15">
-       <u:DynamicMenu></u:DynamicMenu>
+       <u:DynamicMenu/>
 
     </g:west>
-    <g:center size="20">
+    <g:center>
         <g:FlowPanel addStyleNames="{style.navPanel}">
             <g:HTMLPanel styleName="{style.logo}"></g:HTMLPanel>
             <g:Label addStyleNames="{style.title}">Examples</g:Label>

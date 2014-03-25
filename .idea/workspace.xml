@@ -64,112 +64,123 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CdnStatsPanel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.java">
+      <file leaf-file-name="DomainSuggestOracle.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/DomainSuggestOracle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="543" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="406">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySampleApplication.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="23" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="924">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CdnStatsPanel.ui.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.ui.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="72" column="7" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.75409836" vertical-offset="686" max-vertical-offset="1372">
+            <state line="9" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1708">
               <folding>
-                <marker date="1395656758421" expanded="true" signature="288:346" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="361:389" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="407:477" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="489:701" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="717:753" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="767:825" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="839:1001" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="1017:1049" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="1065:1127" placeholder="{...}" />
-                <marker date="1395656758421" expanded="true" signature="1138:1202" placeholder="{...}" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#1159#1160#0" expanded="true" />
+                <element signature="e#1889#1907#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConstants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.java">
+      <file leaf-file-name="ComboSuggestBox.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/ComboSuggestBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="71" max-vertical-offset="588">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DynamicMenu.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="21" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Constants.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/i18n/client/Constants.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="234" column="17" selection-start="8617" selection-end="8617" vertical-scroll-proportion="0.0" vertical-offset="2889" max-vertical-offset="4480">
+            <state line="12" column="17" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
               <folding>
-                <element signature="e#0#11700#0" expanded="false" />
-                <element signature="imports" expanded="false" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DynamicMenu.ui.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.ui.xml">
+      <file leaf-file-name="SuggestWithListBox.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/SuggestWithListBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="12" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="2898">
+            <state line="23" column="60" selection-start="866" selection-end="866" vertical-scroll-proportion="0.2731183" vertical-offset="195" max-vertical-offset="1218">
               <folding>
-                <marker date="1395656132425" expanded="true" signature="355:391" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="413:495" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="522:764" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="784:850" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="869:928" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="946:1009" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="1027:1097" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="1115:1301" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="1321:1361" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="1381:1455" placeholder="{...}" />
-                <marker date="1395656132425" expanded="true" signature="1470:1546" placeholder="{...}" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConstants.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.properties">
+      <file leaf-file-name="DomainsJavaScriptObject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainsJavaScriptObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="42" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="602">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1395726373468" expanded="true" signature="877:911" placeholder="{...}" />
+                <marker date="1395726373468" expanded="true" signature="971:1014" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AppConstants_kr.properties" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants_kr.properties">
-          <provider editor-type-id="ResourceBundle">
-            <state />
-          </provider>
+      <file leaf-file-name="PrefixTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/PrefixTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="-8.615385" vertical-offset="0" max-vertical-offset="336">
-              <folding />
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6734">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1385003832000" expanded="true" signature="3107:3680" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="3217:3378" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="3326:3370" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="3398:3555" placeholder="{&quot;index&quot;: 0...}" />
+                <marker date="1385003832000" expanded="true" signature="3768:3860" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="4179:6210" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="4564:6067" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="4723:5649" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="4827:4867" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5000:5109" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5115:5542" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5157:5530" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5200:5243" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5655:6060" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5698:6051" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="5738:5775" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="6074:6186" placeholder="//..." />
+                <marker date="1385003832000" expanded="true" signature="8639:10349" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="8995:9022" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9028:9134" placeholder="//..." />
+                <marker date="1385003832000" expanded="true" signature="9169:9606" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9307:9338" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9344:9546" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9612:10345" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9791:9836" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="9842:9988" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="10124:10302" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="10308:10339" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="10441:10642" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="12118:15430" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="12506:13166" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="12769:13085" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13172:15426" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13238:13633" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13277:13306" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13455:13537" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13599:13626" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13640:13754" placeholder="//..." />
+                <marker date="1385003832000" expanded="true" signature="13786:15421" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="13822:13851" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="14080:15414" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="14092:14217" placeholder="//..." />
+                <marker date="1385003832000" expanded="true" signature="14419:14640" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="14646:15405" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="14785:15017" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="14830:15004" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="15154:15394" placeholder="{...}" />
+                <marker date="1385003832000" expanded="true" signature="15199:15381" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NoSuchElementException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/util/NoSuchElementException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="6" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="602">
+              <folding>
+                <element signature="e#0#1165#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -186,24 +197,50 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/SearchBox.java" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/SearchBox.ui.xml" />
-        <option value="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/text.txt" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/text_kr.txt" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.java" />
         <option value="$PROJECT_DIR$/war/MySampleApplication.html" />
-        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.java" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.java" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.properties" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants_kr.properties" />
-        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/DomainSelectBox.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/DomainSelectBox.java" />
         <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/SuggestWithListBox.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/widget/CdnStatsPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/widget/CdnStatsPanel.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/widget/DynamicMenu.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/Person.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainJavaScriptOverlay.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainsJavaScriptOverlay.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainJavaScriptObject.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/Domain.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/Domains.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainsJavaScriptObject.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/ComboSuggestBox2.java" />
+        <option value="$PROJECT_DIR$/war/MySampleApplication.css" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/AdvancedMultiWordSuggestOracle.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/PrefixTree.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/MultiWordSuggestOracle.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/fromgwt/MultiWordSuggestOracle.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/fromgwt/AdvancedMultiWordSuggestOracle.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.ui.xml" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/ComboSuggestBox.java" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/DomainSuggestOracle.java" />
+        <option value="$PROJECT_DIR$/war/testDomains.js" />
+        <option value="$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/SuggestWithListBox.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="128" />
-    <option name="y" value="47" />
+    <option name="x" value="485" />
+    <option name="y" value="59" />
     <option name="width" value="1406" />
     <option name="height" value="983" />
   </component>
@@ -233,8 +270,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -369,12 +404,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Resource Bundle 'AppConstants'" />
-              <option name="myItemType" value="com.intellij.lang.properties.projectView.ResourceBundleNode" />
+              <option name="myItemId" value="uibinder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="presenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="presenter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fromgwt" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NimbusStats" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mySampleApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="json" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -395,10 +514,26 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="SearchEverywhereHistory" value="" />
+    <property name="FullScreen" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mySampleApplication.client.uibinder" />
+      <recent name="com.mySampleApplication.client.json" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\namhadmin\Documents\mine\programming\gwt\NimbusStats\src\com\mySampleApplication\client\json" />
+      <recent name="C:\Users\namhadmin\Documents\mine\programming\gwt\NimbusStats\war" />
+    </key>
     <key name="GwtCreateUiBinderDialog.RecentRootElementType">
       <recent name="com.google.gwt.user.client.ui.HTMLPanel" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\namhadmin\Documents\mine\programming\gwt\NimbusStats\src\com\mySampleApplication\client\widget" />
     </key>
   </component>
   <component name="RunManager" selected="GWT Configuration.MySampleApplication">
@@ -417,19 +552,6 @@
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -460,6 +582,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -473,10 +608,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
-      <module name="" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -498,6 +629,10 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="GWT.ConfigurationType" factoryName="GWT Configuration">
+      <module name="" />
       <method />
     </configuration>
     <configuration default="false" name="MySampleApplication" type="GWT.ConfigurationType" factoryName="GWT Configuration">
@@ -525,42 +660,43 @@
       <changelist id="63dccf5d-77bf-4efd-9077-500c1fb54d3b" name="Default" comment="" />
       <created>1395629396760</created>
       <updated>1395629396760</updated>
-      <workItem from="1395629403557" duration="22420000" />
+      <workItem from="1395629403557" duration="22449000" />
+      <workItem from="1395709304932" duration="22422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22420000" />
+    <option name="totallyTimeSpent" value="44871000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="128" y="47" width="1406" height="983" extended-state="0" />
+    <frame x="485" y="59" width="1406" height="983" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.60470587" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4895259" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32891247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39529413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4895259" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28264096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -585,19 +721,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/IsWidget.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="0.15405777" vertical-offset="0" max-vertical-offset="727">
+        <state line="19" column="0" selection-start="543" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="462">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="23" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0" vertical-offset="658" max-vertical-offset="1022">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="96" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0" vertical-offset="686" max-vertical-offset="1372">
+          <folding>
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="588">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/DynamicMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="21" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="406">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/i18n/client/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="17" selection-start="8617" selection-end="8617" vertical-scroll-proportion="0.0" vertical-offset="3276" max-vertical-offset="4732">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/DynamicMenu.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="12" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="2898">
+          <folding>
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="42" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants_kr.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/IsWidget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="17" selection-start="869" selection-end="869" vertical-scroll-proportion="0.15405777" vertical-offset="0" max-vertical-offset="727" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/core/client/GWT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="85" column="0" selection-start="3230" selection-end="3230" vertical-scroll-proportion="0.0" vertical-offset="845" max-vertical-offset="4368">
-          <folding>
-            <marker date="1385964302000" expanded="true" signature="-1:-1" placeholder="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -618,20 +844,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/uibinder/client/UiBinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="4" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="490">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/SearchBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="13" selection-start="698" selection-end="698" vertical-scroll-proportion="0.0" vertical-offset="29" max-vertical-offset="434">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplicationService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="17" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
@@ -639,34 +851,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/war/MySampleApplication.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="18" selection-start="752" selection-end="752" vertical-scroll-proportion="-11.2" vertical-offset="0" max-vertical-offset="490">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="35" selection-start="738" selection-end="738" vertical-scroll-proportion="0.5714286" vertical-offset="0" max-vertical-offset="392">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/SearchBox.ui.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="51" selection-start="556" selection-end="556" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/i18n/client/Constants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="234" column="17" selection-start="8617" selection-end="8617" vertical-scroll-proportion="0.0" vertical-offset="2889" max-vertical-offset="4480">
-          <folding>
-            <element signature="e#0#11700#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -682,79 +870,439 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="-8.615385" vertical-offset="0" max-vertical-offset="336">
+        <state line="16" column="17" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="336">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.properties">
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/DynamicMenu.ui.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="42" selection-start="313" selection-end="313" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
+        <state line="53" column="28" selection-start="1375" selection-end="1375" vertical-scroll-proportion="0.0" vertical-offset="462" max-vertical-offset="2898">
+          <folding>
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395713423647" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/json/PersonJavaScriptOverlay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="20" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="756">
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <marker date="1395717793391" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395717793391" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395717793391" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/DynamicMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="17" selection-start="579" selection-end="579" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/json/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="23" selection-start="1635" selection-end="1635" vertical-scroll-proportion="0.0" vertical-offset="322" max-vertical-offset="924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="543" selection-end="546" vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="406">
+        <state line="15" column="29" selection-start="541" selection-end="541" vertical-scroll-proportion="0.4918033" vertical-offset="0" max-vertical-offset="427">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/uibinder/resources/com.google.gwt.user.client.ui.xsd">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="218" column="23" selection-start="6769" selection-end="6776" vertical-scroll-proportion="4.384075" vertical-offset="1180" max-vertical-offset="9996">
+        <state line="218" column="12" selection-start="6765" selection-end="6765" vertical-scroll-proportion="0.68384075" vertical-offset="2760" max-vertical-offset="9996">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.java">
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/json/Domains.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="483" selection-end="483" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+        <state line="13" column="23" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="294">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/DynamicMenu.ui.xml">
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/uibinder/client/UiBinder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="12" selection-start="778" selection-end="778" vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="2898">
+        <state line="41" column="4" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="490">
           <folding>
-            <marker date="1395656132425" expanded="true" signature="355:391" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="413:495" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="522:764" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="784:850" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="869:928" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="946:1009" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="1027:1097" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="1115:1301" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="1321:1361" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="1381:1455" placeholder="{...}" />
-            <marker date="1395656132425" expanded="true" signature="1470:1546" placeholder="{...}" />
+            <element signature="e#0#1821#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/CdnStatsPanel.ui.xml">
+    <entry file="file://$PROJECT_DIR$/war/MySampleApplication.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="72" column="7" selection-start="1455" selection-end="1455" vertical-scroll-proportion="0.75409836" vertical-offset="686" max-vertical-offset="1372">
+        <state line="6" column="39" selection-start="290" selection-end="290" vertical-scroll-proportion="-3.36" vertical-offset="0" max-vertical-offset="490">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="72" selection-start="729" selection-end="729" vertical-scroll-proportion="0.44262296" vertical-offset="147" max-vertical-offset="574">
           <folding>
-            <marker date="1395656758421" expanded="true" signature="288:346" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="361:389" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="407:477" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="489:701" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="717:753" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="767:825" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="839:1001" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="1017:1049" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="1065:1127" placeholder="{...}" />
-            <marker date="1395656758421" expanded="true" signature="1138:1202" placeholder="{...}" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/AppConstants.properties">
+      <provider editor-type-id="ResourceBundle">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="25" selection-start="178" selection-end="178" vertical-scroll-proportion="0.33245382" vertical-offset="0" max-vertical-offset="379">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/MySampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="0" selection-start="1579" selection-end="1579" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="896">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/ComboSuggestBox2.java.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="38" selection-start="4073" selection-end="4073" vertical-scroll-proportion="0.0" vertical-offset="980" max-vertical-offset="16604">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/SearchBox.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="714" selection-end="714" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="364">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/MySampleApplication.gwt.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/MySampleApplication.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="31" selection-start="250" selection-end="250" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/SearchBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/PopupPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="13" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.0" vertical-offset="599" max-vertical-offset="19082">
+          <folding>
+            <marker date="1385003832000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/event/dom/client/KeyDownEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="0" selection-start="1621" selection-end="1621" vertical-scroll-proportion="0.0" vertical-offset="95" max-vertical-offset="658">
+          <folding>
+            <element signature="e#0#1628#0" expanded="false" />
+            <element signature="e#964#980#0" expanded="false" />
+            <element signature="e#1186#1187#0" expanded="false" />
+            <element signature="e#1207#1208#0" expanded="false" />
+            <element signature="e#1504#1505#0" expanded="false" />
+            <element signature="e#1525#1526#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/Widget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="60" selection-start="4446" selection-end="4446" vertical-scroll-proportion="0.0" vertical-offset="1101" max-vertical-offset="6454">
+          <folding>
+            <element signature="e#0#15784#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#4927#4928#0" expanded="false" />
+            <element signature="e#4954#4955#0" expanded="false" />
+            <element signature="e#5079#5080#0" expanded="false" />
+            <element signature="e#5102#5103#0" expanded="false" />
+            <element signature="e#5406#5407#0" expanded="false" />
+            <element signature="e#5431#5432#0" expanded="false" />
+            <element signature="e#7398#7399#0" expanded="false" />
+            <element signature="e#7436#7437#0" expanded="false" />
+            <element signature="e#13980#13981#0" expanded="false" />
+            <element signature="e#14011#14012#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/util/AbstractCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="22" selection-start="1680" selection-end="1680" vertical-scroll-proportion="0.0" vertical-offset="331" max-vertical-offset="6272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_45/src.zip!/java/util/NoSuchElementException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="6" selection-start="535" selection-end="535" vertical-scroll-proportion="0.0" vertical-offset="23" max-vertical-offset="602">
+          <folding>
+            <element signature="e#0#1165#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/PrefixTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6734">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1385003832000" expanded="true" signature="3107:3680" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="3217:3378" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="3326:3370" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="3398:3555" placeholder="{&quot;index&quot;: 0...}" />
+            <marker date="1385003832000" expanded="true" signature="3768:3860" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="4179:6210" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="4564:6067" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="4723:5649" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="4827:4867" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5000:5109" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5115:5542" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5157:5530" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5200:5243" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5655:6060" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5698:6051" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="5738:5775" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="6074:6186" placeholder="//..." />
+            <marker date="1385003832000" expanded="true" signature="8639:10349" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="8995:9022" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9028:9134" placeholder="//..." />
+            <marker date="1385003832000" expanded="true" signature="9169:9606" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9307:9338" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9344:9546" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9612:10345" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9791:9836" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="9842:9988" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="10124:10302" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="10308:10339" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="10441:10642" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="12118:15430" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="12506:13166" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="12769:13085" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13172:15426" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13238:13633" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13277:13306" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13455:13537" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13599:13626" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13640:13754" placeholder="//..." />
+            <marker date="1385003832000" expanded="true" signature="13786:15421" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="13822:13851" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="14080:15414" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="14092:14217" placeholder="//..." />
+            <marker date="1385003832000" expanded="true" signature="14419:14640" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="14646:15405" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="14785:15017" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="14830:15004" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="15154:15394" placeholder="{...}" />
+            <marker date="1385003832000" expanded="true" signature="15199:15381" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/fromgwt/PrefixTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="276" column="38" selection-start="9166" selection-end="9167" vertical-scroll-proportion="-0.50442475" vertical-offset="4092" max-vertical-offset="6706">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#12460#12468#0" expanded="true" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{&quot;index&quot;: 0...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395735322337" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/json/DomainsJavaScriptObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="602">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1395726373468" expanded="true" signature="877:911" placeholder="{...}" />
+            <marker date="1395726373468" expanded="true" signature="971:1014" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/CdnStatsPanel.ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="22" selection-start="1445" selection-end="1445" vertical-scroll-proportion="0.0" vertical-offset="719" max-vertical-offset="1498">
+          <folding>
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1395733029166" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/SuggestBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1055" column="46" selection-start="34844" selection-end="34849" vertical-scroll-proportion="0.33182845" vertical-offset="14035" max-vertical-offset="16156">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#23280#23766#0" expanded="true" />
+            <element signature="e#23761#23762#0" expanded="true" />
+            <element signature="e#29217#29218#0" expanded="true" />
+            <element signature="e#29240#29241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/SuggestOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="338" column="23" selection-start="11417" selection-end="11417" vertical-scroll-proportion="0.7522124" vertical-offset="3930" max-vertical-offset="4382">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/war/testDomains.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="610" selection-end="610" vertical-scroll-proportion="0.60215056" vertical-offset="42" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/gwt/gwt-2.6.0/gwt-user.jar!/com/google/gwt/user/client/ui/MultiWordSuggestOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="251" column="27" selection-start="7227" selection-end="7227" vertical-scroll-proportion="0.37634408" vertical-offset="2933" max-vertical-offset="6636">
+          <folding>
+            <element signature="e#4139#4160#0" expanded="true" />
+            <element signature="e#4303#4319#0" expanded="true" />
+            <element signature="e#9824#9845#0" expanded="true" />
+            <element signature="e#11577#11585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/fromgwt/AdvancedMultiWordSuggestOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="16" selection-start="6257" selection-end="6257" vertical-scroll-proportion="0.46666667" vertical-offset="2569" max-vertical-offset="7112">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3018#3019#0" expanded="true" />
+            <element signature="e#3062#3063#0" expanded="true" />
+            <element signature="e#3110#3111#0" expanded="true" />
+            <element signature="e#3158#3159#0" expanded="true" />
+            <element signature="e#4454#4475#0" expanded="true" />
+            <element signature="e#4626#4642#0" expanded="true" />
+            <element signature="e#8819#8820#0" expanded="true" />
+            <element signature="e#8863#8864#0" expanded="true" />
+            <element signature="e#9545#9557#0" expanded="true" />
+            <element signature="e#10768#10789#0" expanded="true" />
+            <element signature="e#12815#12823#0" expanded="true" />
+            <element signature="e#14464#14472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/presenter/DomainSuggestOracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="26" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1708">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1159#1160#0" expanded="true" />
+            <element signature="e#1889#1907#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/ComboSuggestBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="17" selection-start="276" selection-end="276" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="322">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mySampleApplication/client/uibinder/SuggestWithListBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="60" selection-start="866" selection-end="866" vertical-scroll-proportion="0.2731183" vertical-offset="195" max-vertical-offset="1218">
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

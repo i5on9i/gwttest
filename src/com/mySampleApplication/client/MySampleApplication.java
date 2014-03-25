@@ -3,9 +3,9 @@ package com.mySampleApplication.client;
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.user.client.ui.*;
 import com.google.gwt.user.client.rpc.AsyncCallback;
-import com.google.gwt.user.client.DOM;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.dom.client.ClickEvent;
+import com.mySampleApplication.client.uibinder.CdnStatsPanel;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>
@@ -34,8 +34,8 @@ public class MySampleApplication implements EntryPoint {
         // to hard-code IDs.  Instead, you could, for example, search for all
         // elements with a particular CSS class and replace them with widgets.
         //
-//        RootPanel.get("slot1").add(button);
-//        RootPanel.get("slot2").add(label);
+//        RootPanel.get().add(button);
+//        RootPanel.get().add(label);
 //
 //        SearchBox sb = new SearchBox();
 //        RootPanel.get("textOutput").add(sb);
@@ -44,8 +44,6 @@ public class MySampleApplication implements EntryPoint {
 //
 
         CdnStatsPanel p = new CdnStatsPanel();
-//        SearchBox sb = new SearchBox();
-//        RootPanel.get("textOutput").add(sb);
         RootLayoutPanel.get().add(p);
     }
 

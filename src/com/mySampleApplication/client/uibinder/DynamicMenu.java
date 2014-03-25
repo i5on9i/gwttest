@@ -1,11 +1,9 @@
-package com.mySampleApplication.client;
+package com.mySampleApplication.client.uibinder;
 
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.uibinder.client.UiBinder;
 import com.google.gwt.user.client.ui.Composite;
-import com.google.gwt.user.client.ui.HTMLPanel;
 import com.google.gwt.user.client.ui.Widget;
-import sun.java2d.pipe.SpanShapeRenderer;
 
 /**
  * Created by namhadmin on 14. 3. 24.

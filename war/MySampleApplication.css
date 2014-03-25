@@ -9,3 +9,9 @@ h1 {
 body, td, a, div, .p {
     font-family: arial, sans-serif
 }
+
+
+
+.gwt-SuggestBoxPopup .item-selected{
+    background: #A8D9F0;
+}
