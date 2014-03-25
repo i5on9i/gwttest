@@ -5,7 +5,7 @@ import com.google.gwt.user.client.ui.*;
 import com.google.gwt.user.client.rpc.AsyncCallback;
 import com.google.gwt.event.dom.client.ClickHandler;
 import com.google.gwt.event.dom.client.ClickEvent;
-import com.mySampleApplication.client.uibinder.CdnStatsPanel;
+import com.mySampleApplication.client.view.uibinder.CdnStatsPanel;
 
 /**
  * Entry point classes define <code>onModuleLoad()</code>

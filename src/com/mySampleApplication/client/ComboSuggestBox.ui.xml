@@ -1,0 +1,14 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'
+             xmlns:u='urn:import:com.mySampleApplication.client.view'>
+    <g:HorizontalPanel>
+        <g:SuggestBox ui:field="suggestBox">
+
+        </g:SuggestBox>
+        <g:FocusPanel ui:field="iconWrapper">
+            <u:CommandIcon/>
+
+        </g:FocusPanel>
+
+    </g:HorizontalPanel>
+</ui:UiBinder>

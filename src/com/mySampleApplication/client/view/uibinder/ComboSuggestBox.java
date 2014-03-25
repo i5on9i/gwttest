@@ -1,4 +1,4 @@
-package com.mySampleApplication.client.uibinder;
+package com.mySampleApplication.client.view.uibinder;
 
 import com.google.gwt.user.client.ui.*;
 import com.mySampleApplication.client.presenter.DomainSuggestOracle;

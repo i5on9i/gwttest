@@ -1,12 +1,8 @@
-package com.mySampleApplication.client.uibinder;
+package com.mySampleApplication.client.view.uibinder;
 
 import com.google.gwt.core.client.GWT;
-import com.google.gwt.core.client.JsonUtils;
-import com.google.gwt.http.client.*;
 import com.google.gwt.uibinder.client.UiBinder;
-import com.google.gwt.uibinder.client.UiField;
 import com.google.gwt.user.client.ui.*;
-import com.mySampleApplication.client.json.DomainsJavaScriptObject;
 
 /**
  * Created by namhadmin on 14. 3. 24.
