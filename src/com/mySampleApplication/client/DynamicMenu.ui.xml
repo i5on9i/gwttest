@@ -1,0 +1,257 @@
+<ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
+             xmlns:g='urn:import:com.google.gwt.user.client.ui'>
+
+
+    <ui:style>
+        @def LEFT_PANEL_WIDTH 180px;
+        @def SUB_TITLE_LEFT_PADDING 35px;
+        @def PANEL_BACKGROUND_COLOR #eeeeee;
+        @def DIVIDER_COLOR #999999;
+
+
+        .button {
+            width: 100%;
+        }
+        .exampleArea {
+            border-left: 1px solid #333333;
+            padding: 10px;
+        }
+        .title, .subTitle {
+            font-family: Verdana, sans-serif;
+            color: #ffffff;
+            font-weight: bold;
+            font-size: 16px;
+            padding: 5px 0;
+            background-color: #323B38;
+            text-align: left;
+        }
+
+        .navPanel {
+            background: PANEL_BACKGROUND_COLOR;
+        }
+        .subPanel{
+
+            padding-left: SUB_TITLE_LEFT_PADDING;
+
+        }
+        .divider {
+            height: 10px;
+            background: #999999;
+        }
+        .website {
+            background-color: #DF1B1B;
+            font-family: Verdana, sans-serif;
+            font-size: 12px;
+            text-align: center;
+            padding: 10px 0;
+        }
+        .website b {
+            font-size: 14px;
+        }
+        .website a {
+            text-decoration: none;
+            color: #ffffff;
+        }
+        .logo {
+            background-color: #ffffff;
+            height: 93px;
+        }
+
+    </ui:style>
+
+    <ui:with field="res" type="com.mySampleApplication.client.AppConstants"/>
+
+    <!--<g:FlowPanel addStyleNames="{style.navPanel}">-->
+        <!--<g:Label addStyleNames="{style.title}"><ui:text from="{res.cache}"/></g:Label>-->
+        <!--<g:FlowPanel addStyleNames="{style.subPanel}">-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.orginTraffic}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+        <!--</g:FlowPanel>-->
+        <!--<g:HTML styleName="{style.divider}" />-->
+        <!--<g:Label addStyleNames="{style.title}"><ui:text from="{res.download}"/></g:Label>-->
+        <!--<g:FlowPanel addStyleNames="{style.subPanel}">-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>-->
+        <!--</g:FlowPanel>-->
+        <!--<g:HTML styleName="{style.divider}" />-->
+        <!--<g:Label addStyleNames="{style.title}"><ui:text from="{res.vod}"/></g:Label>-->
+        <!--<g:FlowPanel addStyleNames="{style.subPanel}">-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>-->
+        <!--</g:FlowPanel>-->
+        <!--<g:HTML styleName="{style.divider}" />-->
+        <!--<g:Label addStyleNames="{style.title}"><ui:text from="{res.live}"/></g:Label>-->
+        <!--<g:FlowPanel addStyleNames="{style.subPanel}">-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+            <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+        <!--</g:FlowPanel>-->
+    <!--</g:FlowPanel>-->
+
+    <g:StackLayoutPanel unit='EM'>
+        <g:stack>
+            <g:customHeader size='3'>
+                <g:Label addStyleNames="{style.title}"><ui:text from="{res.cache}"/></g:Label>
+            </g:customHeader>
+            <g:VerticalPanel>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.orginTraffic}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>
+            </g:VerticalPanel>
+        </g:stack>
+        <g:stack>
+            <g:customHeader size="3">
+                <g:Label addStyleNames="{style.title}"><ui:text from="{res.live}"/></g:Label>
+            </g:customHeader>
+            <g:VerticalPanel>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>
+            </g:VerticalPanel>
+
+        </g:stack>
+        <g:stack>
+            <g:customHeader size="3">
+                <g:Label addStyleNames="{style.title}"><ui:text from="{res.vod}"/></g:Label>
+            </g:customHeader>
+            <g:VerticalPanel>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>
+            </g:VerticalPanel>
+
+        </g:stack>
+        <g:stack>
+            <g:customHeader size="3">
+                <g:Label addStyleNames="{style.title}"><ui:text from="{res.live}"/></g:Label>
+            </g:customHeader>
+            <g:VerticalPanel>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>
+                <g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>
+            </g:VerticalPanel>
+
+        </g:stack>
+    </g:StackLayoutPanel>
+
+    <!---->
+    <!--<g:StackLayoutPanel unit="EM"  height="200px" width="200px">-->
+        <!--<g:stack>-->
+            <!--<g:header>-->
+                <!--<ui:text from="{res.cache}"/>-->
+            <!--</g:header>-->
+            <!--<g:VerticalPanel>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.orginTraffic}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+            <!--</g:VerticalPanel>-->
+        <!--</g:stack>-->
+        <!--<g:stack>-->
+            <!--<g:header size="3">-->
+                <!--<ui:text from="{res.cache}"/>-->
+            <!--</g:header>-->
+            <!--<g:VerticalPanel>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.httpRequest}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.hitRate}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.successRate}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>-->
+            <!--</g:VerticalPanel>-->
+
+        <!--</g:stack>-->
+        <!--<g:stack>-->
+            <!--<g:header size="3">-->
+                <!--<ui:text from="{res.cache}"/>-->
+            <!--</g:header>-->
+            <!--<g:VerticalPanel>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.storage}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.contents}"/></g:Label>-->
+            <!--</g:VerticalPanel>-->
+
+        <!--</g:stack>-->
+        <!--<g:stack>-->
+            <!--<g:customHeader size="3">-->
+                <!--<g:Label addStyleNames="{style.title}"><ui:text from="{res.live}"/></g:Label>-->
+            <!--</g:customHeader>-->
+            <!--<g:VerticalPanel>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.summary}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.transfer}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.traffic}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.currentUser}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.device}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.visitor}"/></g:Label>-->
+                <!--<g:Label addStyleNames="{style.subTitle}"><ui:text from="{res.isp}"/></g:Label>-->
+            <!--</g:VerticalPanel>-->
+
+        <!--</g:stack>-->
+
+
+    <!--</g:StackLayoutPanel>-->
+</ui:UiBinder>
